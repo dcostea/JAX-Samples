@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OllamaToolsSample",
+            "request": "launch",
+            "mainClass": "com.samples.OllamaToolsSample",
+            "projectName": "OllamaToolsSample"
+        },
+        {
+            "type": "java",
+            "name": "OllamaChatSample",
+            "request": "launch",
+            "mainClass": "com.sample.OllamaChatSample",
+            "projectName": "JAXSamples"
+        },
+        {
+            "type": "java",
+            "name": "OllamaVisionSample",
+            "request": "launch",
+            "mainClass": "com.sample.OllamaVisionSample",
+            "projectName": "JAXSamples"
+        },
+        {
+            "type": "java",
+            "name": "OllamaReasoningSample",
+            "request": "launch",
+            "mainClass": "com.sample.OllamaReasoningSample",
+            "projectName": "JAXSamples"
+        }
+    ]
+}
